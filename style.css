@@ -452,7 +452,7 @@ input:focus {
         .main-stories-row-col-1-of-3:not(:last-child) {
           margin-right: 4.7%; }
         .main-stories-row-col-1-of-3-left {
-          background: url(logos/flower.jpeg);
+          background: url(logos/phone.jpg);
           background-size: cover;
           height: 100%;
           padding: 18rem 3rem 4rem 3.8rem;
