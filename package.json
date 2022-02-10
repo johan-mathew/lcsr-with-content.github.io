@@ -8,5 +8,5 @@
   },
   "author": "Johan",
   "license": "ISC",
-  "devDependencies": {"node-sass": "^4.13.1"}
+  "devDependencies": {"node-sass": "^7.0.0"}
 }
